@@ -1,0 +1,54 @@
+bloco-1 {
+    background-color: cornflowerblue;
+height: 150px;
+width: 150px;
+text-align: center;
+font-size: 40pz;
+font-family: "courier new";
+border-radius: 160px;
+}
+
+bloco-2 {
+    background-color: aquamarine;
+    height: 150px;
+    width: 150px;
+    text-align:center;
+    font-size: 40px;
+    font-family: "courier new";
+    border-radius: 160px;
+
+
+}
+
+bloco-3 {
+    background-color: red
+    height 150px;
+    width: 150px;
+    text-align:center;
+    font-size: 40px; 
+    font-family: "courier new"
+    border-radius: 160px;
+    padding: auto;
+   
+    
+
+}  
+
+
+container-justific-flex-start{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    /*indiferente*/
+    background-color:black;
+    padding: ;
+
+}
+
+container-justific-spaces-beferm
+    display: flex;
+    flex-direction::backdrop
+    justify-content: flex-start;
+    /*indiferente*/
+    background-color:yellow 
+     padding:
